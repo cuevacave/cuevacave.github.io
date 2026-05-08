@@ -16,7 +16,7 @@ Mechanical Engineering | Robotics | Controls | Medical Device R&D
 
 ## Resume
 
-[Download Resume](assets/Bryan_Resume.pdf)
+[Download Resume](assets/Bryan_Cueva_Resume.pdf)
 
 ## Contact
 
